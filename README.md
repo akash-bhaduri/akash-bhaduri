@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&text=Hey%20there!%20👋%20I'm%20Blake&fontSize=40&fontColor=white&animation=twinkling)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&text=Hey%20there!%20👋%20I'm%20Akash&fontSize=40&fontColor=white&animation=twinkling)</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=667eea&width=600&lines=Developer+%7C+Tinkerer+%7C+Gamer;NeoVim+Enthusiast+%7C+Python+Builder;Learning+One+Bug+at+a+Time;Breaking+stuff%2C+fixing+it+better!" alt="Typing SVG" />
@@ -35,7 +35,7 @@
 ## 🚀 About Me
 
 ```python
-class Blake:
+class Akash:
     def __init__(self):
         self.current_focus = ["NeoVim Mastery", "Python Automation", "3D Art"]
         self.learning = ["Machine Learning", "Advanced Lua", "Shader Programming"]
