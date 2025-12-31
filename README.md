@@ -80,7 +80,7 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 <tr>
 <td width="50%">
 
-### ⚡ [Neovim Config](https://github.com/lazy-blake/neovim)
+### ⚡ [Neovim Config](https://github.com/akash-bhaduri/neovim)
 *My personalized Neovim setup with modern features*
 
 **⚡ Features:**
@@ -99,12 +99,12 @@ vim.keymap.set("n", "<C-e>", function()
 
 **Tech:** `Lua` `Neovim` `LSP` `Treesitter`
 
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-667eea?style=for-the-badge)](https://github.com/lazy-blake/neovim)
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-667eea?style=for-the-badge)](https://github.com/akash-bhaduri/neovim)
 
 </td>
 <td width="50%">
 
-### 💻 [Terminal Blog](https://github.com/lazy-blake/Terminal-blog)
+### 💻 [Terminal Blog](https://github.com/akash-bhaduri/Terminal-blog)
 *A retro-style terminal-themed blog website*
 
 **🖥️ Features:**
@@ -130,7 +130,7 @@ def show_post(post_id):
 <tr>
 <td width="50%">
 
-### 🎨 [Blender Portfolio](https://github.com/lazy-blake/blender-portfolio)
+### 🎨 [Blender Portfolio](https://github.com/akash-bhaduri/blender-portfolio)
 *Character models, environments & creative 3D work*
 
 **🎭 Showcase:**
@@ -148,12 +148,12 @@ def create_character_rig():
 
 **Tech:** `Blender` `Python` `3D Modeling` `Animation`
 
-[![Gallery](https://img.shields.io/badge/🖼️_View_Gallery-764ba2?style=for-the-badge)](https://github.com/lazy-blake/blender-portfolio)
+[![Gallery](https://img.shields.io/badge/🖼️_View_Gallery-764ba2?style=for-the-badge)](https://github.com/akash-bhaduri/blender-portfolio)
 
 </td>
 <td width="50%">
 
-### 🤖 [Mini Python Projects](https://github.com/lazy-blake/Mini-Python-Projects)
+### 🤖 [Mini Python Projects](https://github.com/akash-bhaduri/Mini-Python-Projects)
 *A growing collection of Python automation & games*
 
 **🎯 Highlights:**
@@ -172,7 +172,7 @@ def organize_files(directory):
 
 **Tech:** `Python` `Click` `BeautifulSoup` `Pygame`
 
-[![Stars](https://img.shields.io/github/stars/lazy-blake/Mini-Python-Projects?style=for-the-badge&color=667eea)](https://github.com/lazy-blake/Mini-Python-Projects)
+[![Stars](https://img.shields.io/github/stars/lazy-blake/Mini-Python-Projects?style=for-the-badge&color=667eea)](https://github.com/akash-bhaduri/Mini-Python-Projects)
 
 </td>
 </tr>
@@ -184,13 +184,13 @@ def organize_files(directory):
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lazy-blake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github" />
 <img width="49%" src="https://streak-stats.demolab.com?user=lazy-blake&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9"/>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazy-blake&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-bhaduri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9"/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=lazy-blake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=akash-bhaduri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
@@ -227,7 +227,7 @@ I'm always excited to connect with fellow developers, makers, and learners! Whet
 
 [![Blog](https://img.shields.io/badge/📬_Terminal_Blog-667eea?style=for-the-badge&logo=hashnode&logoColor=white)](https://terminal-blog.onrender.com/)
 [![Twitter](https://img.shields.io/badge/🐦_@o_blake_x-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/o_blake_x)
-[![GitHub](https://img.shields.io/badge/🛠️_@lazy--blake-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-blake)
+[![GitHub](https://img.shields.io/badge/🛠️_@lazy--blake-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-bhaduri)
 
 </div>
 
@@ -241,7 +241,7 @@ I'm always excited to connect with fellow developers, makers, and learners! Whet
 
 <br>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lazy-blake.lazy-blake&left_color=667eea&right_color=764ba2)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akash-bhaduri.akash-bhaduri&left_color=667eea&right_color=764ba2)
 
 </div>
 
