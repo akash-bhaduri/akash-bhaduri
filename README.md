@@ -1,42 +1,43 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&text=Hey%20there!%20👋%20I'm%20Akash&fontSize=40&fontColor=white&animation=twinkling)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=282828&height=120&text=Hey%20there!%20👋%20I'm%20Akash&fontSize=40&fontColor=ebdbb2&animation=twinkling)</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=667eea&width=600&lines=Developer+%7C+Tinkerer+%7C+Gamer;NeoVim+Enthusiast+%7C+Python+Builder;Learning+One+Bug+at+a+Time;Breaking+stuff%2C+fixing+it+better!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=a9b665&width=600&lines=Full-Stack+Developer+%7C+Tinkerer;NeoVim+Enthusiast+%7C+Python+Builder;Obsidian+Power+User;Crafting+Digital+Experiences+in+Gruvbox" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-🧠 **Developer** | ⚙️ **Tinkerer** | 🎮 **Gamer**  
-*Breaking stuff, fixing it better, and sharing what I learn!*
+⚙️ **Developer** | 🧠 **Tinkerer** | 🎨 **3D Artist**  
+*Building slick workflows, one line of Lua at a time.*
 
-[![GitHub followers](https://img.shields.io/github/followers/akash-bhaduri?label=Followers&style=for-the-badge&color=667eea&labelColor=1a1b26)](https://github.com/akash-bhaduri)
-[![Twitter Follow](https://img.shields.io/twitter/follow/o_blake_x?style=for-the-badge&color=667eea&labelColor=1a1b26)](https://twitter.com/o_blake_x)
-[![Blog](https://img.shields.io/badge/My%20Blog-Terminal_Blog-667eea?style=for-the-badge&logo=hashnode&labelColor=1a1b26)](https://terminal-blog.onrender.com/)
+[![GitHub followers](https://img.shields.io/github/followers/akash-bhaduri?label=Followers&style=for-the-badge&color=d8a657&labelColor=32302f)](https://github.com/akash-bhaduri)
+[![Twitter Follow](https://img.shields.io/twitter/follow/o_blake_x?style=for-the-badge&color=7daea3&labelColor=32302f)](https://twitter.com/o_blake_x)
+[![Blog](https://img.shields.io/badge/Terminal_Blog-Hashnode-a9b665?style=for-the-badge&logo=hashnode&labelColor=32302f)](https://terminal-blog.onrender.com/)
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## 🚀 The Stack (`init.py`)
 
 ```python
 class Akash:
     def __init__(self):
-        self.current_focus = ["NeoVim Mastery", "Python Automation", "3D Art"]
-        self.learning = ["Machine Learning", "Advanced Lua", "Backend Development"]
-        self.ask_me_about = ["NeoVim configs", "Python scripting", "Blender workflows"]
-        self.fun_fact = "Sometimes I open Vim just to exit Vim 😅"
+        self.os = "Windows (WSL2 / Linux)"
+        self.editor = "NeoVim (The One True Editor)"
+        self.theme = "Gruvbox Material (Hard)"
+        self.focus = ["Automation", "Backend Architecture", "Workflow Optimization"]
+        self.currently_exploring = ["Generative AI", "Rust", "Advanced Shaders"]
         
-    def current_mood(self):
-        return "Caffeinated and ready to code! ☕"
+    def get_philosophy(self):
+        return "Clean code is good, but a clean workflow is God-tier."
 ```
 
 <details>
-<summary><b>📖 Dive deeper into my journey</b></summary>
+<summary><b>📖 Execute <code>cat ~/about_me.txt</code></b></summary>
 <br/>
-I'm passionate about creating efficient development environments and automating repetitive tasks. My journey started with curiosity about how things work "under the hood," which led me down the rabbit hole of terminal customization, editor configuration, and building tools that make my life easier.
+I'm a developer obsessed with the "perfect setup." Whether it's configuring a lightning-fast NeoVim environment or automating my entire knowledge base in Obsidian, I believe tools should work for you, not against you. 
 
-When I'm not coding, you'll find me crafting 3D characters in Blender or gaming. I believe in learning by doing, breaking things, and documenting the fixes for others to learn from.
+My background blends technical precision with creative flair—from Python backends and Flask APIs to character modeling and animation in Blender. I build systems that are as functional as they are beautiful.
 </details>
 
 <br/>
@@ -45,9 +46,9 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 
 <div align="center">
 
-| **Daily Drivers** | **Development & Design** | **Tools & Platforms** |
+| **Core Languages** | **Tools & Workflow** | **Design & Platforms** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=neovim,python,lua,git,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vim,pycharm,blender,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=github,bash,markdown,vscode&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=python,lua,html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=neovim,git,linux,bash,powershell&theme=dark" /> | <img src="https://skillicons.dev/icons?i=blender,flask,github,markdown,vscode&theme=dark" /> |
 
 </div>
 
@@ -55,104 +56,85 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 
 ## 🔥 Featured Projects
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Neovim Config](https://github.com/akash-bhaduri/neovim)
-*My personalized Neovim setup with modern features*
+### ⚡ [NeoVim Configuration](https://github.com/akash-bhaduri/neovim)
+*A precision-engineered Lua setup.*
 
-- Lightning-fast LSP integration
-- Custom key bindings & workflows  
-- Beautiful colorschemes & UI
+- **LSP / Treesitter** for high-speed coding
+- **Telescope & Harpoon** workflow
+- **Gruvbox Material** UI optimization
 
 ```lua
--- Quick file finding
-vim.keymap.set('n', '<leader>ef', '<cmd>Telescope find_files<cr>')
+-- Minimalist mapping
+map("n", "<leader>pv", vim.cmd.Ex)
 ```
-**Tech:** `Lua` `Neovim` `LSP` `Treesitter`
-
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-667eea?style=flat-square)](https://github.com/akash-bhaduri/neovim)
+[![Stars](https://img.shields.io/github/stars/akash-bhaduri/neovim?style=flat-square&color=d8a657)](https://github.com/akash-bhaduri/neovim)
 </td>
 <td width="50%" valign="top">
 
 ### 💻 [Terminal Blog](https://github.com/akash-bhaduri/Terminal-blog)
-*A retro-style terminal-themed blog website*
+*A retro-style terminal-themed portfolio.*
 
-- Authentic terminal aesthetics
-- Flask-powered backend
-- Markdown blog post support
+- **Flask** powered backend architecture
+- **SQL** database for post persistence
+- Full **Markdown** rendering engine
 
 ```python
-# Show blog post route
-@app.route('/blog/<post_id>')
-def show_post(post_id):
-    return render_template('post.html', post=post)
+@app.route('/shell')
+def terminal_ui():
+    return render_template('shell.html')
 ```
-**Tech:** `Flask` `Python` `SQL` `HTML/CSS`
-
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-667eea?style=flat-square)](https://terminal-blog.onrender.com/)
+[![Live](https://img.shields.io/badge/🌐_Visit_Site-a9b665?style=flat-square)](https://terminal-blog.onrender.com/)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [Blender Portfolio](https://github.com/akash-bhaduri/blender-portfolio)
-*Character models, environments & creative 3D work*
+### 🎨 [3D Creative Portfolio](https://github.com/akash-bhaduri/blender-portfolio)
+*Visual storytelling in Blender.*
 
-- Stylized character designs
-- Animation experiments
-- Material & lighting studies
+- High-poly **Character Modeling**
+- **Procedural Texturing** (Gruvbox palette)
+- Keyframe animation studies
 
-```python
-import bpy
-def create_character_rig():
-    pass # Custom rigging workflow
-```
-**Tech:** `Blender` `Python` `3D Modeling`
-
-[![Gallery](https://img.shields.io/badge/🖼️_View_Gallery-764ba2?style=flat-square)](https://github.com/akash-bhaduri/blender-portfolio)
+[![Gallery](https://img.shields.io/badge/🖼️_Showcase-7daea3?style=flat-square)](https://github.com/akash-bhaduri/blender-portfolio)
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Mini Python Projects](https://github.com/akash-bhaduri/Mini-Python-Projects)
-*A growing collection of Python automation & games*
+### 🤖 [Python Automation](https://github.com/akash-bhaduri/Mini-Python-Projects)
+*Small scripts that solve big problems.*
 
-- File organization scripts
-- Web scraping utilities
-- Mini games & puzzles
+- **OS Automation** and file managers
+- **Web Scrapers** for data collection
+- **CLI Utilities** for daily productivity
 
-```python
-def organize_files(directory):
-    for file in os.listdir(directory):
-        move_to_category_folder(file)
-```
-**Tech:** `Python` `Click` `BeautifulSoup`
-
-[![Repo](https://img.shields.io/badge/📁_View_Repo-764ba2?style=flat-square)](https://github.com/akash-bhaduri/Mini-Python-Projects)
+[![Repo](https://img.shields.io/badge/📂_Source-e78a4e?style=flat-square)](https://github.com/akash-bhaduri/Mini-Python-Projects)
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Analytics Dashboard
 
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=akash-bhaduri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=akash-bhaduri&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 <br/><br/>
 
 <!-- Stats & Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=akash-bhaduri&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d8a657&icon_color=a9b665&text_color=ebdbb2" />
+<img width="48%" src="https://streak-stats.demolab.com?user=akash-bhaduri&theme=gruvbox&hide_border=true&background=282828&stroke=d8a657&ring=a9b665&fire=e78a4e&currStreakLabel=ebdbb2"/>
 
 <br/>
 
 <!-- Activity Graph -->
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-bhaduri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-bhaduri&theme=gruvbox&hide_border=true&bg_color=282828&color=a9b665&line=d8a657&point=ebdbb2"/>
 
 </div>
 
@@ -162,21 +144,18 @@ def organize_files(directory):
 
 <div align="center">
 
-I'm always excited to connect with fellow developers, makers, and learners!
+I'm always open to talking about high-efficiency workflows or open-source collaboration.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/o_blake_x)
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://terminal-blog.onrender.com/)
-
-<br/>
-
-**⭐ If you like what I'm building, drop a follow or star my repos! 🙌**
+[![Twitter](https://img.shields.io/badge/Twitter-7daea3?style=for-the-badge&logo=twitter&logoColor=282828)](https://twitter.com/o_blake_x)
+[![Blog](https://img.shields.io/badge/Hashnode-a9b665?style=for-the-badge&logo=hashnode&logoColor=282828)](https://terminal-blog.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-d8a657?style=for-the-badge&logo=github&logoColor=282828)](https://github.com/akash-bhaduri)
 
 <br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akash-bhaduri.akash-bhaduri&left_color=667eea&right_color=764ba2)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akash-bhaduri.akash-bhaduri&left_color=282828&right_color=d8a657)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer"/>
 </div>
