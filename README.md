@@ -69,22 +69,21 @@ That is what pushed me toward **Python automation**, **NeoVim workflows**, **Win
 
 ## `> main_quests`
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/akash-bhaduri/Full-Windows-Setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Full-Windows-Setup&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Full Windows Setup" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Full-Windows-Setup&theme=tokyonight&border_radius=10" alt="Full Windows Setup" />
   </a>
   <a href="https://github.com/akash-bhaduri/better-alt-tab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=better-alt-tab&title_color=7ee787&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Better Alt Tab" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=better-alt-tab&theme=tokyonight&border_radius=10" alt="Better Alt Tab" />
   </a>
-</p>
-<p align="center">
+  <br />
   <a href="https://github.com/akash-bhaduri/Terminal-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Terminal-blog&title_color=56cfe1&icon_color=ffb86c&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Terminal Blog" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Terminal-blog&theme=tokyonight&border_radius=10" alt="Terminal Blog" />
   </a>
   <a href="https://github.com/akash-bhaduri/neovim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=neovim&title_color=ffb86c&icon_color=7ee787&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Neovim Config" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=neovim&theme=tokyonight&border_radius=10" alt="Neovim Config" />
   </a>
-</p>
+</div>
 
 <details>
 <summary><b><code>> view_quest_log()</code></b></summary>
@@ -100,14 +99,12 @@ That is what pushed me toward **Python automation**, **NeoVim workflows**, **Win
 
 ## `> xp_board`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&rank_icon=github&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" width="49%" alt="Akash GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0d1117" width="49%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0D1117&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" width="70%" alt="GitHub streak stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Akash GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top languages" height="180px" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=akash-bhaduri&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub streak stats" />
+</div>
 
 <br>
 
@@ -121,7 +118,7 @@ That is what pushed me toward **Python automation**, **NeoVim workflows**, **Win
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=56cfe1&height=60&section=footer" width="100%" />
 </p>
 
 <p align="center">
