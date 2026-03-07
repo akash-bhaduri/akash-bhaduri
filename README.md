@@ -35,7 +35,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
 
 <p align="left">
   <b>Intelligence & Logic</b><br>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,scikitlearn&theme=dark" alt="AI Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,html,sql&theme=dark" alt="AI Skills" />
 </p>
 <p align="left">
   <b>Environment & Tools</b><br>
@@ -44,9 +44,9 @@ learning:   [diffusion models, CUDA, advanced calculus]
 
 ## `> side_quests`
 
-- 🧠 Linear Algebra for Deep Learning
-- ⚡ High-performance terminal workflows
-- 🎨 Stylized UI/UX for technical tools
+-  Linear Algebra for Deep Learning
+-  High-performance terminal workflows
+-  Stylized UI/UX for technical tools
 
 </td>
 </tr>
