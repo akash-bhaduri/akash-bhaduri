@@ -1,195 +1,123 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=282828&height=120&text=Hey%20there!%20👋%20I'm%20Akash&fontSize=40&fontColor=ebdbb2&animation=twinkling)</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=a9b665&width=600&lines=Developer+%7C+Tinkerer+%7C+Gamer;NeoVim+Enthusiast+%7C+Python+Builder;Learning+One+Bug+at+a+Time;Breaking+stuff%2C+fixing+it+better!" alt="Typing SVG" />
+  <img src="./assets/pixel-terminal-hero.svg" alt="Pixel art terminal banner for Akash Bhaduri" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/akash-bhaduri?tab=followers"><img src="https://img.shields.io/github/followers/akash-bhaduri?style=for-the-badge&label=Followers&color=56cfe1&labelColor=111827" alt="GitHub followers" /></a>
+  <a href="https://github.com/akash-bhaduri/Terminal-blog"><img src="https://img.shields.io/badge/Live-TERMINAL_BLOG-ffb86c?style=for-the-badge&labelColor=111827" alt="Terminal Blog" /></a>
+  <a href="https://github.com/akash-bhaduri/Full-Windows-Setup"><img src="https://img.shields.io/badge/Repo-FULL_WINDOWS_SETUP-7ee787?style=for-the-badge&labelColor=111827" alt="Full Windows Setup" /></a>
+</p>
 
-🧠 **Developer** | ⚙️ **Tinkerer** | 🎮 **Gamer**  
-*Breaking stuff, fixing it better, and sharing what I learn!*
-
-[![GitHub followers](https://img.shields.io/github/followers/akash-bhaduri?label=Follower&style=for-the-badge&color=d8a657&labelColor=32302f)](https://github.com/akash-bhaduri)
-[![Twitter Follow](https://img.shields.io/twitter/follow/o_blake_x?style=for-the-badge&color=7daea3&labelColor=32302f)](https://twitter.com/o_blake_x)
-[![Blog](https://img.shields.io/badge/My%20Blog-Terminal_Blog-a9b665?style=for-the-badge&logo=hashnode&labelColor=32302f)](https://terminal-blog.onrender.com/)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class Akash:
-    def __init__(self):
-        self.current_focus = ["NeoVim Mastery", "Python Automation", "3D Art"]
-        self.learning = ["Machine Learning", "Advanced Lua", "Shader Programming"]
-        self.ask_me_about = ["NeoVim configs", "Python scripting", "Blender workflows"]
-        self.fun_fact = "Sometimes I open Vim just to exit Vim 😅"
-        
-    def current_mood(self):
-        return "Caffeinated and ready to code! ☕"
-```
-
-<details>
-<summary><b>📖 More About My Journey</b></summary>
-<br/>
-I'm passionate about creating efficient development environments and automating repetitive tasks. My journey started with curiosity about how things work "under the hood," which led me down the rabbit hole of terminal customization, editor configuration, and building tools that make my life easier.
-
-When I'm not coding, you'll find me crafting 3D characters in Blender or gaming. I believe in learning by doing, breaking things, and documenting the fixes for others to learn from.
-
-</details>
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-| **Daily Drivers** | **Development & Design** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=neovim,python,lua,git,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vim,pycharm,blender,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=github,bash,markdown,vscode&theme=dark" /> |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### ⚡ [Neovim Config](https://github.com/akash-bhaduri/neovim)
-*My personalized Neovim setup with modern features*
+## `whoami`
 
-**⚡ Features:**
-- Lightning-fast LSP integration
-- Custom key bindings & workflows  
-- Beautiful colorschemes & UI
-- Plugin management with lazy.nvim
+Terminal-first developer building useful things with a bit of game UI energy.
 
-```lua
--- My favorite keybinding
-vim.keymap.set('n', '<leader>ef', '<cmd>Telescope find_files<cr>')
+I spend most of my time on Python automation, Windows setup experiments, NeoVim workflows, and small projects that feel fast, tactile, and clean.
+
+```text
+alias      :: Akash / BLAKE
+core stack :: Python, Lua, HTML/CSS, Git
+currently  :: terminal tooling, setup repos, visual experiments
+learning   :: machine learning, shaders, deeper Lua
 ```
-[![Stars](https://img.shields.io/github/stars/akash-bhaduri/neovim?style=flat-square&color=d8a657)](https://github.com/akash-bhaduri/neovim)
+
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 💻 [Terminal Blog](https://github.com/akash-bhaduri/Terminal-blog)
-*A retro-style terminal-themed blog website*
+## `loadout`
 
-**🖥️ Features:**
-- Authentic terminal aesthetics
-- Flask-powered backend
-- SQL database integration
-- Markdown blog post support
+<p>
+  <img src="https://skillicons.dev/icons?i=python,lua,neovim,git,linux,bash,html,css,blender,github&theme=dark" alt="Skill icons" />
+</p>
 
-```python
-@app.route('/blog/<post_id>')
-def show_post(post_id):
-    post = get_post_from_db(post_id)
-    return render_template('post.html', post=post)
-```
-[![Live](https://img.shields.io/badge/🌐_Visit_Site-a9b665?style=flat-square)](https://terminal-blog.onrender.com/)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## `side_quests`
 
-### 🎨 [Blender Portfolio](https://github.com/akash-bhaduri/blender-portfolio)
-*Character models, environments & creative 3D work*
+- Blender and stylized visuals
+- interface polish with retro flavor
+- turning tiny ideas into shippable tools
 
-**🎭 Showcase:**
-- Stylized character designs
-- Animation experiments
-- Material & lighting studies
-
-```python
-# Blender Python automation script
-import bpy
-def create_character_rig():
-    # Custom rigging workflow
-    pass
-```
-[![Gallery](https://img.shields.io/badge/🖼️_Showcase-7daea3?style=flat-square)](https://github.com/akash-bhaduri/blender-portfolio)
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Mini Python Projects](https://github.com/akash-bhaduri/Mini-Python-Projects)
-*A growing collection of Python automation & games*
-
-**🎯 Highlights:**
-- File organization scripts
-- Web scraping utilities
-- Mini games & puzzles
-- CLI productivity tools
-
-```python
-# Auto-organize downloads folder
-def organize_files(directory):
-    for file in os.listdir(directory):
-        move_to_category_folder(file)
-```
-[![Repo](https://img.shields.io/badge/📂_Source-e78a4e?style=flat-square)](https://github.com/akash-bhaduri/Mini-Python-Projects)
 </td>
 </tr>
 </table>
 
----
+## `main_quests`
 
-## 📊 Analytics Dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### [Full-Windows-Setup](https://github.com/akash-bhaduri/Full-Windows-Setup)
 
-<img src="https://github-profile-trophy.vercel.app/?username=akash-bhaduri&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+A full GlazeWM + YASB + WezTerm workflow tuned like a custom operating system.
 
-<br/><br/>
+`CSS` `Windows` `workflow design`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d8a657&icon_color=a9b665&text_color=ebdbb2" />
-<img width="49%" src="https://streak-stats.demolab.com?user=akash-bhaduri&theme=gruvbox&hide_border=true&background=282828&stroke=d8a657&ring=a9b665&fire=e78a4e&currStreakLabel=ebdbb2"/>
+</td>
+<td width="50%" valign="top">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-bhaduri&theme=gruvbox&hide_border=true&bg_color=282828&color=a9b665&line=d8a657&point=ebdbb2"/>
+### [better-alt-tab](https://github.com/akash-bhaduri/better-alt-tab)
 
-</div>
+An AutoHotkey shortcut layer that skips the endless Alt+Tab cycle and jumps straight to apps.
 
----
+`AutoHotkey` `desktop tooling` `productivity`
 
-## 🎮 Beyond Coding
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### [Terminal-blog](https://github.com/akash-bhaduri/Terminal-blog)
 
-| **🎯 Current Interests** | **🎮 Gaming** | **🎨 Creative** |
-|-------------------------|---------------|-----------------|
-| Machine Learning & AI   | Strategy Games | 3D Character Design |
-| Performance Optimization | Indie Games   | Environment Art |
-| Developer Experience    | Retro Gaming  | Animation Studies |
+A retro-styled blog for tech, space, and productivity with a terminal interface mood.
 
-</div>
+`HTML` `web` `retro UI`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🤝 Let's Connect
+### [neovim](https://github.com/akash-bhaduri/neovim)
 
-<div align="center">
+My editor setup, tuned around speed, keyboard flow, and a cleaner coding loop.
 
-I'm always excited to connect with fellow developers, makers, and learners!
+`Lua` `NeoVim` `developer experience`
 
-[![Twitter](https://img.shields.io/badge/🐦_@o_blake_x-7daea3?style=for-the-badge&logo=twitter&logoColor=282828)](https://twitter.com/o_blake_x)
-[![Blog](https://img.shields.io/badge/📬_Terminal_Blog-a9b665?style=for-the-badge&logo=hashnode&logoColor=282828)](https://terminal-blog.onrender.com/)
-[![GitHub](https://img.shields.io/badge/🛠️_@akash--bhaduri-d8a657?style=for-the-badge&logo=github&logoColor=282828)](https://github.com/akash-bhaduri)
+</td>
+</tr>
+</table>
 
-<br/>
+<details>
+<summary><b>quest_log</b></summary>
 
-**⭐ If you like what I'm building, drop a follow or star my repos! 🙌**
+- building more projects that mix utility with style
+- exploring machine learning without losing the hands-on builder mindset
+- pushing terminal and desktop setups until they feel like products
 
-<br/>
+</details>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akash-bhaduri.akash-bhaduri&left_color=282828&right_color=d8a657)
+## `xp_board`
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&rank_icon=github&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" width="49%" alt="Akash GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0d1117" width="49%" alt="Top languages" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0D1117&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" width="70%" alt="GitHub streak stats" />
+</p>
+
+## `portals`
+
+<p align="center">
+  <a href="https://github.com/akash-bhaduri">GitHub</a> •
+  <a href="https://akash-qn4m.onrender.com">Site</a> •
+  <a href="https://github.com/akash-bhaduri/Terminal-blog">Terminal Blog</a> •
+  <a href="https://github.com/akash-bhaduri/windows-terminal-config">Terminal Config</a>
+</p>
+
+<p align="center">
+  <sub>Built to feel like a save screen from a developer RPG.</sub>
+</p>
