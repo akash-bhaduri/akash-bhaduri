@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pixel-terminal-hero.svg" alt="Pixel art terminal banner for Akash Bhaduri" width="100%" />
+  <img src="./assets/pixel-terminal-hero.svg?v=1.0.1" alt="Pixel art terminal banner for Akash Bhaduri" width="100%" />
 </p>
 
 <p align="center">
@@ -111,8 +111,8 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 ## `> xp_board`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" alt="Akash GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0d1117" alt="Top languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" alt="Akash GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0d1117" alt="Top languages" height="170" />
   <br />
   <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0D1117&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak stats" />
 </div>
