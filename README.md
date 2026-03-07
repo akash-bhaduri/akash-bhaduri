@@ -19,12 +19,12 @@
 
 > Terminal-first developer building useful things with a bit of game UI energy. 
 
-I spend most of my time on **Python automation**, **Windows setup experiments**, **NeoVim workflows**, and small projects that feel fast, tactile, and clean.
+I spend most of my time on **Python automation**, **Machine Learning**, **Windows setup experiments**, **NeoVim workflows**, and buuilding Llms that feel fast, tactile, and clean.
 
 ```yaml
 alias:      Akash / BLAKE
 core_stack: [Python, Lua, HTML/CSS, Git]
-currently:  [terminal tooling, setup repos, visual experiments]
+currently:  [Building llms, setup repos, visual experiments]
 learning:   [machine learning, shaders, deeper Lua]
 ```
 
@@ -44,9 +44,9 @@ learning:   [machine learning, shaders, deeper Lua]
 
 ## `> side_quests`
 
-- 🎨 Blender and stylized visuals
-- ✨ Interface polish with retro flavor
-- 🛠️ Turning tiny ideas into shippable tools
+- Books and stylized visuals
+- Interface polish with retro flavor
+- Turning tiny ideas into shippable tools
 
 </td>
 </tr>
@@ -89,9 +89,9 @@ That is what pushed me toward **Python automation**, **NeoVim workflows**, **Win
 <summary><b><code>> view_quest_log()</code></b></summary>
 <br>
 
-- 🚀 Building more projects that mix utility with style
-- 🧠 Exploring machine learning without losing the hands-on builder mindset
-- ⚡ Pushing terminal and desktop setups until they feel like products
+-  Building more projects that mix utility with style
+-  Exploring machine learning without losing the hands-on builder mindset
+-  Pushing terminal and desktop setups until they feel like products
 
 </details>
 
