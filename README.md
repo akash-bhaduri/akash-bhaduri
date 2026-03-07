@@ -35,7 +35,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
 
 <p align="left">
   <b>Intelligence & Logic</b><br>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,html,sql&theme=dark" alt="AI Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,SQLitefastapi,html,css&theme=dark" alt="AI Skills" />
 </p>
 <p align="left">
   <b>Environment & Tools</b><br>
