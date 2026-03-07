@@ -68,7 +68,7 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 ## `> main_quests`
 
 <div align="center">
-  <table border="0">
+  <table width="100%" border="0">
     <tr>
       <td width="50%">
         <a href="https://github.com/akash-bhaduri/Terminal-blog">
