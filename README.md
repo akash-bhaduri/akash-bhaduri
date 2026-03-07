@@ -68,43 +68,23 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 ## `> main_quests`
 
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/akash-bhaduri/Terminal-blog">
-          <img src="./assets/quest-terminal-blog.svg?v=1.0.0" alt="Terminal Blog" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://akash-qn4m.onrender.com">
-          <img src="./assets/quest-portfolio.svg?v=1.0.0" alt="Portfolio" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/akash-bhaduri/better-alt-tab">
-          <img src="./assets/quest-better-alt-tab.svg?v=1.0.0" alt="Better Alt Tab" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/akash-bhaduri/neovim">
-          <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Neovim Config" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://github.com/akash-bhaduri/Terminal-blog">
+      <img src="./assets/quest-terminal-blog.svg?v=1.0.0" alt="Terminal Blog" width="49%" />
+    </a>
+    <a href="https://akash-qn4m.onrender.com">
+      <img src="./assets/quest-portfolio.svg?v=1.0.0" alt="Portfolio" width="49%" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/akash-bhaduri/better-alt-tab">
+      <img src="./assets/quest-better-alt-tab.svg?v=1.0.0" alt="Better Alt Tab" width="49%" />
+    </a>
+    <a href="https://github.com/akash-bhaduri/neovim">
+      <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Neovim Config" width="49%" />
+    </a>
+  </p>
 </div>
-
-<details>
-<summary><b><code>> view_quest_log()</code></b></summary>
-<br>
-
-- 🚀 Fine-tuning LLMs for specialized domain tasks
-- 🧠 Deep diving into the math of backpropagation and linear layers
-- ⚡ Pushing NeoVim to be the ultimate AI-assisted IDE
-
-</details>
 
 <br>
 
