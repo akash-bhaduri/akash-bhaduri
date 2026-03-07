@@ -44,6 +44,14 @@ learning   :: machine learning, shaders, deeper Lua
 </tr>
 </table>
 
+## `journey.log`
+
+What pulled me into all of this was simple curiosity about what was happening under the hood.
+
+I started opening configs, tweaking terminals, breaking things, and rebuilding them just to understand how the pieces fit together. That curiosity slowly turned into a habit: learn by taking tools apart, then shape them into something faster, cleaner, and more personal.
+
+That is what pushed me toward Python automation, NeoVim workflows, Windows customization, and the kind of small projects where both utility and style matter.
+
 ## `main_quests`
 
 <table>
