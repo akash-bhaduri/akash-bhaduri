@@ -4,109 +4,96 @@
 
 <p align="center">
   <a href="https://github.com/akash-bhaduri?tab=followers"><img src="https://img.shields.io/github/followers/akash-bhaduri?style=for-the-badge&label=Followers&color=56cfe1&labelColor=111827" alt="GitHub followers" /></a>
+  <a href="https://github.com/akash-bhaduri"><img src="https://komarev.com/ghpvc/?username=akash-bhaduri&style=for-the-badge&color=56cfe1&label=Profile+Views&labelColor=111827" alt="Profile Views"/></a>
   <a href="https://github.com/akash-bhaduri/Terminal-blog"><img src="https://img.shields.io/badge/Live-TERMINAL_BLOG-ffb86c?style=for-the-badge&labelColor=111827" alt="Terminal Blog" /></a>
   <a href="https://github.com/akash-bhaduri/Full-Windows-Setup"><img src="https://img.shields.io/badge/Repo-FULL_WINDOWS_SETUP-7ee787?style=for-the-badge&labelColor=111827" alt="Full Windows Setup" /></a>
 </p>
 
+<br>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## `whoami`
+## `> whoami`
 
-Terminal-first developer building useful things with a bit of game UI energy.
+Terminal-first developer building useful things with a bit of game UI energy. I spend most of my time on Python automation, Windows setup experiments, NeoVim workflows, and small projects that feel fast, tactile, and clean.
 
-I spend most of my time on Python automation, Windows setup experiments, NeoVim workflows, and small projects that feel fast, tactile, and clean.
-
-```text
-alias      :: Akash / BLAKE
-core stack :: Python, Lua, HTML/CSS, Git
-currently  :: terminal tooling, setup repos, visual experiments
-learning   :: machine learning, shaders, deeper Lua
+```yaml
+alias:      Akash / BLAKE
+core_stack: [Python, Lua, HTML/CSS, Git]
+currently:  [terminal tooling, setup repos, visual experiments]
+learning:   [machine learning, shaders, deeper Lua]
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-## `loadout`
+## `> loadout`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,lua,neovim,git,linux,bash,html,css,blender,github&theme=dark" alt="Skill icons" />
+  <b>Languages & Core</b><br>
+  <img src="https://skillicons.dev/icons?i=python,lua,bash,html,css&theme=dark" alt="Core Skills" />
+</p>
+<p>
+  <b>Tools & Environment</b><br>
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux,blender,github&theme=dark" alt="Tools" />
 </p>
 
-## `side_quests`
+## `> side_quests`
 
 - Blender and stylized visuals
-- interface polish with retro flavor
-- turning tiny ideas into shippable tools
+- Interface polish with retro flavor
+- Turning tiny ideas into shippable tools
 
 </td>
 </tr>
 </table>
 
-## `journey.log`
+<br>
 
-What pulled me into all of this was simple curiosity about what was happening under the hood.
+## `> journey.log`
 
-I started opening configs, tweaking terminals, breaking things, and rebuilding them just to understand how the pieces fit together. That curiosity slowly turned into a habit: learn by taking tools apart, then shape them into something faster, cleaner, and more personal.
+> What pulled me into all of this was simple curiosity about what was happening under the hood.
+
+I started opening configs, tweaking terminals, breaking things, and rebuilding them just to understand how the pieces fit together. That curiosity slowly turned into a habit: learn by taking tools apart, then shape them into something faster, cleaner, and more personal. 
 
 That is what pushed me toward Python automation, NeoVim workflows, Windows customization, and the kind of small projects where both utility and style matter.
 
-## `main_quests`
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## `> main_quests`
 
-### [Full-Windows-Setup](https://github.com/akash-bhaduri/Full-Windows-Setup)
-
-A full GlazeWM + YASB + WezTerm workflow tuned like a custom operating system.
-
-`CSS` `Windows` `workflow design`
-
-</td>
-<td width="50%" valign="top">
-
-### [better-alt-tab](https://github.com/akash-bhaduri/better-alt-tab)
-
-An AutoHotkey shortcut layer that skips the endless Alt+Tab cycle and jumps straight to apps.
-
-`AutoHotkey` `desktop tooling` `productivity`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Terminal-blog](https://github.com/akash-bhaduri/Terminal-blog)
-
-A retro-styled blog for tech, space, and productivity with a terminal interface mood.
-
-`HTML` `web` `retro UI`
-
-</td>
-<td width="50%" valign="top">
-
-### [neovim](https://github.com/akash-bhaduri/neovim)
-
-My editor setup, tuned around speed, keyboard flow, and a cleaner coding loop.
-
-`Lua` `NeoVim` `developer experience`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/akash-bhaduri/Full-Windows-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Full-Windows-Setup&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Full Windows Setup" />
+  </a>
+  <a href="https://github.com/akash-bhaduri/better-alt-tab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=better-alt-tab&title_color=7ee787&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Better Alt Tab" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/akash-bhaduri/Terminal-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Terminal-blog&title_color=56cfe1&icon_color=ffb86c&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Terminal Blog" />
+  </a>
+  <a href="https://github.com/akash-bhaduri/neovim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=neovim&title_color=ffb86c&icon_color=7ee787&text_color=e6edf3&bg_color=0d1117&hide_border=true" width="48%" alt="Neovim Config" />
+  </a>
+</p>
 
 <details>
-<summary><b>quest_log</b></summary>
+<summary><b><code>> view_quest_log()</code></b></summary>
+<br>
 
-- building more projects that mix utility with style
-- exploring machine learning without losing the hands-on builder mindset
-- pushing terminal and desktop setups until they feel like products
+- Building more projects that mix utility with style
+- Exploring machine learning without losing the hands-on builder mindset
+- Pushing terminal and desktop setups until they feel like products
 
 </details>
 
-## `xp_board`
+<br>
+
+## `> xp_board`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&rank_icon=github&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" width="49%" alt="Akash GitHub stats" />
@@ -117,13 +104,15 @@ My editor setup, tuned around speed, keyboard flow, and a cleaner coding loop.
   <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0D1117&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" width="70%" alt="GitHub streak stats" />
 </p>
 
-## `portals`
+<br>
+
+## `> portals`
 
 <p align="center">
-  <a href="https://github.com/akash-bhaduri">GitHub</a> •
-  <a href="https://akash-qn4m.onrender.com">Site</a> •
-  <a href="https://github.com/akash-bhaduri/Terminal-blog">Terminal Blog</a> •
-  <a href="https://github.com/akash-bhaduri/windows-terminal-config">Terminal Config</a>
+  <a href="https://github.com/akash-bhaduri"><kbd>GitHub</kbd></a> •
+  <a href="https://akash-qn4m.onrender.com"><kbd>Site</kbd></a> •
+  <a href="https://github.com/akash-bhaduri/Terminal-blog"><kbd>Terminal Blog</kbd></a> •
+  <a href="https://github.com/akash-bhaduri/windows-terminal-config"><kbd>Terminal Config</kbd></a>
 </p>
 
 <p align="center">
