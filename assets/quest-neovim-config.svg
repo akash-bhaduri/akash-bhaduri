@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Neovim Config quest card</title>
+  <desc id="desc">A terminal-themed project card for the Neovim configuration repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1114"/>
+      <stop offset="100%" stop-color="#17131d"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="transparent"/>
+      <path d="M24 0H0V24" fill="none" stroke="#2f2437" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="10" y="10" width="620" height="300" rx="16" fill="url(#grid)" stroke="#4a3458" stroke-width="2"/>
+  <rect x="28" y="28" width="584" height="28" rx="8" fill="#201927"/>
+  <circle cx="48" cy="42" r="5" fill="#ff7b72"/>
+  <circle cx="66" cy="42" r="5" fill="#ffb86c"/>
+  <circle cx="84" cy="42" r="5" fill="#7ee787"/>
+  <text x="108" y="47" fill="#94a3b8" font-family="monospace" font-size="12">quest://nvim-config</text>
+
+  <rect x="42" y="84" width="138" height="28" rx="8" fill="#173628"/>
+  <text x="60" y="103" fill="#7ee787" font-family="monospace" font-size="14" font-weight="700">IDE LOADOUT</text>
+
+  <text x="42" y="150" fill="#f0f6fc" font-family="monospace" font-size="32" font-weight="700">Neovim Config</text>
+  <text x="42" y="179" fill="#56cfe1" font-family="monospace" font-size="18">A tuned editing setup for AI workflows, Lua, and speed.</text>
+
+  <rect x="42" y="204" width="74" height="26" rx="8" fill="#173628"/>
+  <rect x="126" y="204" width="74" height="26" rx="8" fill="#14303d"/>
+  <rect x="210" y="204" width="98" height="26" rx="8" fill="#2d2013"/>
+  <text x="60" y="222" fill="#7ee787" font-family="monospace" font-size="13" font-weight="700">LUA</text>
+  <text x="144" y="222" fill="#56cfe1" font-family="monospace" font-size="13" font-weight="700">LSP</text>
+  <text x="228" y="222" fill="#ffb86c" font-family="monospace" font-size="13" font-weight="700">AI TOOLS</text>
+
+  <rect x="42" y="252" width="556" height="38" rx="10" fill="#101820" stroke="#4a3458"/>
+  <text x="58" y="276" fill="#ffb86c" font-family="monospace" font-size="16">PS&gt; nvim C:\Users\akash\code\future.lua</text>
+
+  <path d="M540 82l36 22v44l-36 22-36-22v-44z" fill="#7ee787" opacity="0.18"/>
+  <path d="M540 98l22 13v26l-22 13-22-13v-26z" fill="#56cfe1" opacity="0.2"/>
+  <path d="M508 188h84M508 204h60M508 220h76" stroke="#ffb86c" stroke-width="3" opacity="0.45"/>
+</svg>

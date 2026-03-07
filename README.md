@@ -72,24 +72,24 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
     <tr>
       <td width="50%">
         <a href="https://github.com/akash-bhaduri/Terminal-blog">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=Terminal-blog&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Terminal Blog" />
+          <img src="./assets/quest-terminal-blog.svg?v=1.0.0" alt="Terminal Blog" width="100%" />
         </a>
       </td>
       <td width="50%">
         <a href="https://akash-qn4m.onrender.com">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=akash-bhaduri&title_color=7ee787&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Portfolio" />
+          <img src="./assets/quest-portfolio.svg?v=1.0.0" alt="Portfolio" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/akash-bhaduri/better-alt-tab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=better-alt-tab&title_color=56cfe1&icon_color=ffb86c&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Better Alt Tab" />
+          <img src="./assets/quest-better-alt-tab.svg?v=1.0.0" alt="Better Alt Tab" width="100%" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/akash-bhaduri/neovim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-bhaduri&repo=neovim&title_color=ffb86c&icon_color=7ee787&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Neovim Config" />
+          <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Neovim Config" width="100%" />
         </a>
       </td>
     </tr>

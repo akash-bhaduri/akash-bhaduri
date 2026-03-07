@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal Blog quest card</title>
+  <desc id="desc">A terminal-themed project card for the Terminal Blog repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1114"/>
+      <stop offset="100%" stop-color="#111b22"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="transparent"/>
+      <path d="M24 0H0V24" fill="none" stroke="#17303b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="10" y="10" width="620" height="300" rx="16" fill="url(#grid)" stroke="#28414f" stroke-width="2"/>
+  <rect x="28" y="28" width="584" height="28" rx="8" fill="#16252f"/>
+  <circle cx="48" cy="42" r="5" fill="#ff7b72"/>
+  <circle cx="66" cy="42" r="5" fill="#ffb86c"/>
+  <circle cx="84" cy="42" r="5" fill="#7ee787"/>
+  <text x="108" y="47" fill="#94a3b8" font-family="monospace" font-size="12">quest://terminal-blog</text>
+
+  <rect x="42" y="84" width="126" height="28" rx="8" fill="#2d2013"/>
+  <text x="60" y="103" fill="#ffb86c" font-family="monospace" font-size="14" font-weight="700">LIVE JOURNAL</text>
+
+  <text x="42" y="150" fill="#f0f6fc" font-family="monospace" font-size="34" font-weight="700">Terminal Blog</text>
+  <text x="42" y="179" fill="#56cfe1" font-family="monospace" font-size="18">A retro terminal blog interface with a modern web stack.</text>
+
+  <rect x="42" y="204" width="84" height="26" rx="8" fill="#14303d"/>
+  <rect x="136" y="204" width="84" height="26" rx="8" fill="#173628"/>
+  <rect x="230" y="204" width="98" height="26" rx="8" fill="#1e2733"/>
+  <text x="60" y="222" fill="#56cfe1" font-family="monospace" font-size="13" font-weight="700">NEXT</text>
+  <text x="154" y="222" fill="#7ee787" font-family="monospace" font-size="13" font-weight="700">MDX</text>
+  <text x="248" y="222" fill="#f0f6fc" font-family="monospace" font-size="13" font-weight="700">TERMINAL UI</text>
+
+  <rect x="42" y="252" width="556" height="38" rx="10" fill="#101820" stroke="#28414f"/>
+  <text x="58" y="276" fill="#ffb86c" font-family="monospace" font-size="16">PS&gt; open github.com/akash-bhaduri/Terminal-blog</text>
+
+  <rect x="536" y="76" width="34" height="34" fill="#ffb86c" opacity="0.18"/>
+  <rect x="574" y="76" width="16" height="16" fill="#56cfe1" opacity="0.3"/>
+  <rect x="560" y="100" width="30" height="30" fill="#7ee787" opacity="0.16"/>
+  <rect x="530" y="132" width="60" height="2" fill="#56cfe1" opacity="0.45"/>
+  <rect x="530" y="146" width="42" height="2" fill="#ffb86c" opacity="0.45"/>
+  <rect x="530" y="160" width="54" height="2" fill="#7ee787" opacity="0.45"/>
+</svg>

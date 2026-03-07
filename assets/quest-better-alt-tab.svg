@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Better Alt Tab quest card</title>
+  <desc id="desc">A terminal-themed project card for the Better Alt Tab repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1114"/>
+      <stop offset="100%" stop-color="#10161f"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="transparent"/>
+      <path d="M24 0H0V24" fill="none" stroke="#1c2f40" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="10" y="10" width="620" height="300" rx="16" fill="url(#grid)" stroke="#2b4155" stroke-width="2"/>
+  <rect x="28" y="28" width="584" height="28" rx="8" fill="#15202b"/>
+  <circle cx="48" cy="42" r="5" fill="#ff7b72"/>
+  <circle cx="66" cy="42" r="5" fill="#ffb86c"/>
+  <circle cx="84" cy="42" r="5" fill="#7ee787"/>
+  <text x="108" y="47" fill="#94a3b8" font-family="monospace" font-size="12">quest://better-alt-tab</text>
+
+  <rect x="42" y="84" width="146" height="28" rx="8" fill="#14303d"/>
+  <text x="59" y="103" fill="#56cfe1" font-family="monospace" font-size="14" font-weight="700">WINDOW SWITCHER</text>
+
+  <text x="42" y="150" fill="#f0f6fc" font-family="monospace" font-size="32" font-weight="700">Better Alt Tab</text>
+  <text x="42" y="179" fill="#56cfe1" font-family="monospace" font-size="18">A sharper app switcher built to move faster than the default.</text>
+
+  <rect x="42" y="204" width="84" height="26" rx="8" fill="#14303d"/>
+  <rect x="136" y="204" width="84" height="26" rx="8" fill="#2d2013"/>
+  <rect x="230" y="204" width="98" height="26" rx="8" fill="#1e2733"/>
+  <text x="60" y="222" fill="#56cfe1" font-family="monospace" font-size="13" font-weight="700">WINUI</text>
+  <text x="154" y="222" fill="#ffb86c" font-family="monospace" font-size="13" font-weight="700">UX</text>
+  <text x="248" y="222" fill="#f0f6fc" font-family="monospace" font-size="13" font-weight="700">KEYBOARD</text>
+
+  <rect x="42" y="252" width="556" height="38" rx="10" fill="#101820" stroke="#2b4155"/>
+  <text x="58" y="276" fill="#56cfe1" font-family="monospace" font-size="16">PS&gt; open github.com/akash-bhaduri/better-alt-tab</text>
+
+  <rect x="520" y="82" width="66" height="48" rx="8" fill="#56cfe1" opacity="0.12"/>
+  <rect x="540" y="102" width="66" height="48" rx="8" fill="#ffb86c" opacity="0.16"/>
+  <path d="M518 176h92M518 192h64M518 208h80" stroke="#56cfe1" stroke-width="3" opacity="0.45"/>
+</svg>
