@@ -11,13 +11,15 @@
 
 <br>
 
-<table>
+<table border="0">
 <tr>
 <td width="55%" valign="top">
 
 ## `> whoami`
 
-Terminal-first developer building useful things with a bit of game UI energy. I spend most of my time on Python automation, Windows setup experiments, NeoVim workflows, and small projects that feel fast, tactile, and clean.
+> Terminal-first developer building useful things with a bit of game UI energy. 
+
+I spend most of my time on **Python automation**, **Windows setup experiments**, **NeoVim workflows**, and small projects that feel fast, tactile, and clean.
 
 ```yaml
 alias:      Akash / BLAKE
@@ -31,20 +33,20 @@ learning:   [machine learning, shaders, deeper Lua]
 
 ## `> loadout`
 
-<p>
+<p align="left">
   <b>Languages & Core</b><br>
   <img src="https://skillicons.dev/icons?i=python,lua,bash,html,css&theme=dark" alt="Core Skills" />
 </p>
-<p>
+<p align="left">
   <b>Tools & Environment</b><br>
   <img src="https://skillicons.dev/icons?i=neovim,git,linux,blender,github&theme=dark" alt="Tools" />
 </p>
 
 ## `> side_quests`
 
-- Blender and stylized visuals
-- Interface polish with retro flavor
-- Turning tiny ideas into shippable tools
+- 🎨 Blender and stylized visuals
+- ✨ Interface polish with retro flavor
+- 🛠️ Turning tiny ideas into shippable tools
 
 </td>
 </tr>
@@ -54,11 +56,14 @@ learning:   [machine learning, shaders, deeper Lua]
 
 ## `> journey.log`
 
-> What pulled me into all of this was simple curiosity about what was happening under the hood.
+```text
+[SYSTEM] :: initializing curiosity...
+[SUCCESS] :: learning by taking tools apart.
+```
 
 I started opening configs, tweaking terminals, breaking things, and rebuilding them just to understand how the pieces fit together. That curiosity slowly turned into a habit: learn by taking tools apart, then shape them into something faster, cleaner, and more personal. 
 
-That is what pushed me toward Python automation, NeoVim workflows, Windows customization, and the kind of small projects where both utility and style matter.
+That is what pushed me toward **Python automation**, **NeoVim workflows**, **Windows customization**, and the kind of small projects where both utility and style matter.
 
 <br>
 
@@ -85,9 +90,9 @@ That is what pushed me toward Python automation, NeoVim workflows, Windows custo
 <summary><b><code>> view_quest_log()</code></b></summary>
 <br>
 
-- Building more projects that mix utility with style
-- Exploring machine learning without losing the hands-on builder mindset
-- Pushing terminal and desktop setups until they feel like products
+- 🚀 Building more projects that mix utility with style
+- 🧠 Exploring machine learning without losing the hands-on builder mindset
+- ⚡ Pushing terminal and desktop setups until they feel like products
 
 </details>
 
@@ -109,10 +114,14 @@ That is what pushed me toward Python automation, NeoVim workflows, Windows custo
 ## `> portals`
 
 <p align="center">
-  <a href="https://github.com/akash-bhaduri"><kbd>GitHub</kbd></a> •
-  <a href="https://akash-qn4m.onrender.com"><kbd>Site</kbd></a> •
-  <a href="https://github.com/akash-bhaduri/Terminal-blog"><kbd>Terminal Blog</kbd></a> •
-  <a href="https://github.com/akash-bhaduri/windows-terminal-config"><kbd>Terminal Config</kbd></a>
+  <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> •
+  <a href="https://akash-qn4m.onrender.com"><code>Site</code></a> •
+  <a href="https://github.com/akash-bhaduri/Terminal-blog"><code>Terminal Blog</code></a> •
+  <a href="https://github.com/akash-bhaduri/windows-terminal-config"><code>Terminal Config</code></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=60&section=footer" width="100%" />
 </p>
 
 <p align="center">
