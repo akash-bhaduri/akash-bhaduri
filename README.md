@@ -80,8 +80,8 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
     <a href="https://github.com/akash-bhaduri/better-alt-tab">
       <img src="./assets/quest-better-alt-tab.svg?v=1.0.0" alt="Better Alt Tab" width="49%" />
     </a>
-    <a href="https://github.com/akash-bhaduri/neovim">
-      <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Neovim Config" width="49%" />
+    <a href="https://github.com/akash-bhaduri/axiom-1">
+      <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Axiom-1" width="49%" />
     </a>
   </p>
 </div>
