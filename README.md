@@ -19,12 +19,12 @@
 
 > **Neural Architect & Terminal Craftsman** building intelligent systems with a pixel-art soul.
 
-I spend most of my time training **Large Language Models**, exploring **Deep Learning**, and crafting optimized **NeoVim workflows**. I bridge the gap between heavy math and clean, tactile interfaces.
+I spend most of my time training **Large Language Models**, exploring **Deep Learning**, and building **Axiom 1**, a custom LLM. I bridge the gap between heavy math and clean, tactile interfaces.
 
 ```yaml
 alias:      Akash / BLAKE
 core_stack: [Python, PyTorch, LLMs, Lua]
-currently:  [training transformers, linear algebra, nvim-dev]
+currently:  [training transformers, linear algebra, axiom-dev]
 learning:   [diffusion models, CUDA, advanced calculus]
 ```
 
@@ -81,7 +81,9 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
       <img src="./assets/quest-better-alt-tab.svg?v=1.0.0" alt="Better Alt Tab" width="49%" />
     </a>
     <a href="https://github.com/akash-bhaduri/axiom-1">
-      <img src="./assets/quest-neovim-config.svg?v=1.0.0" alt="Axiom-1" width="49%" />
+
+      <img src="./assets/quest-axiom.svg?v=1.0.0" alt="Axiom 1" width="49%" />
+
     </a>
   </p>
 </div>
@@ -115,3 +117,5 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
+
+

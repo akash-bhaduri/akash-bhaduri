@@ -46,7 +46,7 @@
     <text x="88" y="71" fill="#0b1114" font-family="monospace" font-size="15" font-weight="700">PLAYER 01</text>
     <text x="70" y="132" fill="#f0f6fc" font-family="monospace" font-size="52" font-weight="700">AKASH // BLAKE</text>
     <text x="70" y="168" fill="#56cfe1" font-family="monospace" font-size="24" font-weight="700">NEURAL CORE &amp; TERMINAL ARCHITECT</text>
-    <text x="70" y="196" fill="#94a3b8" font-family="monospace" font-size="18">LLMs / Deep Learning / Linear Algebra / Neovim</text>
+    <text x="70" y="196" fill="#94a3b8" font-family="monospace" font-size="18">LLMs / Machine Learning / Deep Learning</text>
     <rect x="70" y="218" width="112" height="28" fill="#14303d"/>
     <rect x="194" y="218" width="120" height="28" fill="#173628"/>
     <rect x="326" y="218" width="112" height="28" fill="#2d2013"/>
@@ -54,7 +54,7 @@
     <text x="95" y="237" fill="#56cfe1" font-family="monospace" font-size="15" font-weight="700">PYTHON</text>
     <text x="210" y="237" fill="#7ee787" font-family="monospace" font-size="15" font-weight="700">AI / LLM</text>
     <text x="352" y="237" fill="#ffb86c" font-family="monospace" font-size="15" font-weight="700">MATH</text>
-    <text x="470" y="237" fill="#f0f6fc" font-family="monospace" font-size="15" font-weight="700">NEOVIM ENTHUSIAST</text>
+    <text x="470" y="237" fill="#f0f6fc" font-family="monospace" font-size="15" font-weight="700">AI RESEARCHER</text>
   </g>
 
   <g fill="#111923">
@@ -91,7 +91,7 @@
     <text x="738" y="153" fill="#f0f6fc" font-family="monospace" font-size="18">|- Terminal-blog</text>
     <text x="738" y="183" fill="#f0f6fc" font-family="monospace" font-size="18">|- portfolio-site</text>
     <text x="738" y="213" fill="#f0f6fc" font-family="monospace" font-size="18">|- better-alt-tab</text>
-    <text x="738" y="243" fill="#f0f6fc" font-family="monospace" font-size="18">`- neovim</text>
+    <text x="738" y="243" fill="#f0f6fc" font-family="monospace" font-size="18">`- axiom</text>
     <text x="738" y="270" fill="#56cfe1" font-family="monospace" font-size="17">ready_to_ship = true</text>
     <rect x="943" y="257" width="9" height="17" fill="#56cfe1"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.25s" repeatCount="indefinite"/></rect>
   </g>
