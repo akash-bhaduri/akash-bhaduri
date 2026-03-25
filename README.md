@@ -17,7 +17,7 @@
 
 <div align="center">
 
-| <img src="./assets/header-identity.svg" width="300" /> | <img src="./assets/header-core.svg" width="300" /> |
+| <img src="./assets/header-identity.svg" height="20" /> | <img src="./assets/header-core.svg" height="20" /> |
 | :--- | :--- |
 | <blockquote align="left"><b>Neural Architect & Terminal Craftsman</b> building intelligent systems with a pixel-art soul.<br><br>I spend most of my time training <b>Large Language Models</b>, exploring <b>Deep Learning</b>, and building <b>Axiom 1</b>, a custom LLM. I bridge the gap between heavy math and clean, tactile interfaces.<br><br><img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch%2C%20LLMs-7ee787?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" /></blockquote> | <p align="left"><code><b>[ CORE_LOGIC ]</b></code><br><img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" /></p><p align="left"><code><b>[ SYSTEM_TOOLS ]</b></code><br><img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" /></p><p align="left"><code><b>[ RESEARCH_THREADS ]</b></code><br>• Linear Algebra for DL<br>• Terminal Workflows<br>• Stylized UI/UX</p> |
 
@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-<img src="./assets/header-history.svg" width="100%" />
+<img src="./assets/header-history.svg" height="20" />
 
 <blockquote>
 <div align="left">
@@ -93,3 +93,4 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
+
