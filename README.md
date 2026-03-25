@@ -15,7 +15,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## `> whoami`
+## `> system_identity`
 
 > **Neural Architect & Terminal Craftsman** building intelligent systems with a pixel-art soul.
 
@@ -31,7 +31,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
 </td>
 <td width="45%" valign="top">
 
-## `> loadout`
+## `> neural_core`
 
 <p align="left">
   <b>Intelligence & Logic</b><br>
@@ -42,7 +42,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
   <img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" />
 </p>
 
-## `> side_quests`
+## `> research_threads`
 
 -  Linear Algebra for Deep Learning
 -  High-performance terminal workflows
@@ -54,7 +54,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
 
 <br>
 
-## `> journey.log`
+## `> training_history`
 
 ```text
 [SYSTEM] :: initializing neural_core...
@@ -65,7 +65,7 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 
 <br>
 
-## `> main_quests`
+## `> active_deployments`
 
 <div align="center">
   <p>
@@ -88,18 +88,18 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 
 <br>
 
-## `> xp_board`
+## `> performance_metrics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&title_color=ffb86c&icon_color=56cfe1&text_color=e6edf3&bg_color=0d1117" alt="Akash GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0d1117" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-bhaduri&show_icons=true&hide_border=true&title_color=56cfe1&icon_color=56cfe1&text_color=e6edf3&bg_color=0b1114" alt="Akash GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-bhaduri&layout=compact&hide_border=true&title_color=7ee787&text_color=e6edf3&bg_color=0b1114" alt="Top languages" height="170" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0D1117&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=akash-bhaduri&hide_border=true&background=0b1114&stroke=2B3440&ring=56CFE1&fire=FFB86C&currStreakLabel=E6EDF3&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak stats" />
 </div>
 
 <br>
 
-## `> portals`
+## `> access_nodes`
 
 <p align="center">
   <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> •
@@ -115,6 +115,7 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
+
 
 
 

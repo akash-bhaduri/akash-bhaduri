@@ -21,16 +21,16 @@
   <text x="108" y="47" fill="#94a3b8" font-family="monospace" font-size="12">quest://axiom-1</text>
 
   <rect x="42" y="84" width="138" height="28" rx="8" fill="#173628"/>
-  <text x="60" y="103" fill="#7ee787" font-family="monospace" font-size="14" font-weight="700">CORE LOGIC</text>       
+  <text x="60" y="103" fill="#7ee787" font-family="monospace" font-size="14" font-weight="700">NEURAL ARCH</text>       
 
   <text x="42" y="150" fill="#f0f6fc" font-family="monospace" font-size="32" font-weight="700">Axiom 1</text>     
   <text x="42" y="179" fill="#56cfe1" font-family="monospace" font-size="18">Building a custom LLM implementation from the ground up.</text>
 
   <rect x="42" y="204" width="74" height="26" rx="8" fill="#173628"/>
-  <rect x="126" y="204" width="108" height="26" rx="8" fill="#14303d"/>
+  <rect x="126" y="204" width="114" height="26" rx="8" fill="#14303d"/>
   <rect x="244" y="204" width="98" height="26" rx="8" fill="#2d2013"/>
   <text x="56" y="222" fill="#7ee787" font-family="monospace" font-size="13" font-weight="700">PYTORCH</text>
-  <text x="134" y="222" fill="#56cfe1" font-family="monospace" font-size="13" font-weight="700">TRANSFORMER</text>
+  <text x="131" y="222" fill="#56cfe1" font-family="monospace" font-size="13" font-weight="700">TRANSFORMER</text>
   <text x="256" y="222" fill="#ffb86c" font-family="monospace" font-size="13" font-weight="700">LLM CORE</text>
 
   <rect x="42" y="252" width="556" height="38" rx="10" fill="#101820" stroke="#4a3458"/>
@@ -40,3 +40,4 @@
   <path d="M540 98l22 13v26l-22 13-22-13v-26z" fill="#56cfe1" opacity="0.2"/>
   <path d="M508 188h84M508 204h60M508 220h76" stroke="#ffb86c" stroke-width="3" opacity="0.45"/>
 </svg>
+
