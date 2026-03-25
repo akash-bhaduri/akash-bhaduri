@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40" viewBox="0 0 260 40">
+  <path d="M0 8C0 3.58172 3.58172 0 8 0H200L220 40H0V8Z" fill="#1a2a36"/>
+  <rect x="12" y="14" width="8" height="8" fill="#ff7b72"/><rect x="26" y="14" width="8" height="8" fill="#ffb86c"/><rect x="40" y="14" width="8" height="8" fill="#7ee787"/>
+  <text x="60" y="26" fill="#56cfe1" font-family="monospace" font-size="14" font-weight="700">> training_history</text>
+</svg>

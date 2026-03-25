@@ -15,30 +15,29 @@
 <tr>
 <td width="55%" valign="top">
 
-## `> system_identity`
+<img src="./assets/header-identity.svg" height="30" />
 
 > **Neural Architect & Terminal Craftsman** building intelligent systems with a pixel-art soul.
 
 I spend most of my time training **Large Language Models**, exploring **Deep Learning**, and building **Axiom 1**, a custom LLM. I bridge the gap between heavy math and clean, tactile interfaces.
 
-```yaml
-alias:      Akash / BLAKE
-core_stack: [Python, PyTorch, LLMs, Lua]
-currently:  [training transformers, linear algebra, axiom-dev]
-learning:   [diffusion models, CUDA, advanced calculus]
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" />
+  <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch%2C%20LLMs-7ee787?style=flat-square&labelColor=1a2a36" />
+  <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" />
+</p>
 
 </td>
 <td width="45%" valign="top">
 
-## `> neural_core`
+<img src="./assets/header-core.svg" height="30" />
 
 <p align="left">
-  <b>Intelligence & Logic</b><br>
+  <code><b>[ CORE_LOGIC ]</b></code><br>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" />
 </p>
 <p align="left">
-  <b>Environment & Tools</b><br>
+  <code><b>[ SYSTEM_TOOLS ]</b></code><br>
   <img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" />
 </p>
 
@@ -54,7 +53,7 @@ learning:   [diffusion models, CUDA, advanced calculus]
 
 <br>
 
-## `> training_history`
+<img src="./assets/header-history.svg" height="30" />
 
 ```text
 [SYSTEM] :: initializing neural_core...
@@ -115,6 +114,7 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
+
 
 
 
