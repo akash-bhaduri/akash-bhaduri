@@ -24,8 +24,7 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/header-history.svg" height="32" />
+<div align="left"><img src="./assets/header-history.svg" height="32" /></div><div align="center">
   <blockquote align="left">
     <div align="left">
 
@@ -91,3 +90,4 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
+
