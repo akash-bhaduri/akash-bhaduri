@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/header-status.svg?v=1.0.0" alt="Quote Status Bar" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/akash-bhaduri?tab=followers"><img src="https://img.shields.io/github/followers/akash-bhaduri?style=for-the-badge&label=Followers&color=56cfe1&labelColor=111827" alt="GitHub followers" /></a>
   <a href="https://github.com/akash-bhaduri"><img src="https://komarev.com/ghpvc/?username=akash-bhaduri&style=for-the-badge&color=56cfe1&label=Profile+Views&labelColor=111827" alt="Profile Views"/></a>
   <a href="https://github.com/akash-bhaduri/Terminal-blog"><img src="https://img.shields.io/badge/Live-TERMINAL_BLOG-ffb86c?style=for-the-badge&labelColor=111827" alt="Terminal Blog" /></a>
@@ -11,56 +15,31 @@
 
 <br>
 
-<table border="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-<img src="./assets/header-identity.svg" height="30" />
+| <img src="./assets/header-identity.svg" width="300" /> | <img src="./assets/header-core.svg" width="300" /> |
+| :--- | :--- |
+| <blockquote align="left"><b>Neural Architect & Terminal Craftsman</b> building intelligent systems with a pixel-art soul.<br><br>I spend most of my time training <b>Large Language Models</b>, exploring <b>Deep Learning</b>, and building <b>Axiom 1</b>, a custom LLM. I bridge the gap between heavy math and clean, tactile interfaces.<br><br><img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch%2C%20LLMs-7ee787?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" /></blockquote> | <p align="left"><code><b>[ CORE_LOGIC ]</b></code><br><img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" /></p><p align="left"><code><b>[ SYSTEM_TOOLS ]</b></code><br><img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" /></p><p align="left"><code><b>[ RESEARCH_THREADS ]</b></code><br>• Linear Algebra for DL<br>• Terminal Workflows<br>• Stylized UI/UX</p> |
 
-> **Neural Architect & Terminal Craftsman** building intelligent systems with a pixel-art soul.
-
-I spend most of my time training **Large Language Models**, exploring **Deep Learning**, and building **Axiom 1**, a custom LLM. I bridge the gap between heavy math and clean, tactile interfaces.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" />
-  <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch%2C%20LLMs-7ee787?style=flat-square&labelColor=1a2a36" />
-  <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" />
-</p>
-
-</td>
-<td width="45%" valign="top">
-
-<img src="./assets/header-core.svg" height="30" />
-
-<p align="left">
-  <code><b>[ CORE_LOGIC ]</b></code><br>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" />
-</p>
-<p align="left">
-  <code><b>[ SYSTEM_TOOLS ]</b></code><br>
-  <img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" />
-</p>
-
-## `> research_threads`
-
--  Linear Algebra for Deep Learning
--  High-performance terminal workflows
--  Stylized UI/UX for technical tools
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<img src="./assets/header-history.svg" height="30" />
+<div align="center">
+<img src="./assets/header-history.svg" width="100%" />
+
+<blockquote>
+<div align="left">
 
 ```text
 [SYSTEM] :: initializing neural_core...
 [SUCCESS] :: weights loaded. scaling intelligence.
 ```
 
-I started by taking tools apart to see how they worked. That curiosity evolved from tweaking terminal configs to tweaking neural architectures. Today, I'm focused on the intersection of **Artificial Intelligence** and **Developer Experience**â€”building tools that are as smart as they are fast.
+I started by taking tools apart to see how they worked. That curiosity evolved from tweaking terminal configs to tweaking neural architectures. Today, I'm focused on the intersection of **Artificial Intelligence** and **Developer Experience**—building tools that are as smart as they are fast.
+</div>
+</blockquote>
+</div>
 
 <br>
 
@@ -101,21 +80,16 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 ## `> access_nodes`
 
 <p align="center">
-  <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> â€¢
-  <a href="https://akash-qn4m.onrender.com"><code>Portfolio</code></a> â€¢
-  <a href="https://github.com/akash-bhaduri/Terminal-blog"><code>Terminal Blog</code></a> â€¢
+  <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> •
+  <a href="https://akash-qn4m.onrender.com"><code>Portfolio</code></a> •
+  <a href="https://github.com/akash-bhaduri/Terminal-blog"><code>Terminal Blog</code></a> •
   <a href="https://github.com/akash-bhaduri/windows-terminal-config"><code>Terminal Config</code></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=56cfe1&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=56cfe1&height=60&section=footer" width="100%" />    
 </p>
 
 <p align="center">
   <sub>Built to feel like a save screen from a developer RPG.</sub>
 </p>
-
-
-
-
-

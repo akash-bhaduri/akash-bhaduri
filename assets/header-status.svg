@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36">
+  <rect width="1200" height="36" fill="#1a2a36" rx="6"/>
+  <rect x="12" y="10" width="16" height="16" fill="#7ee787" rx="8"/>
+  <text x="40" y="23" fill="#94a3b8" font-family="monospace" font-size="14" font-weight="700">SYSTEM READY</text>
+  <text x="1180" y="23" fill="#56cfe1" font-family="monospace" font-size="14" font-weight="700" text-anchor="end">"if you wanna waste time, waste it on learning something"</text>
+</svg>
