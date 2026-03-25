@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <path d="M0 8C0 3.58172 3.58172 0 8 0H160L180 40H0V8Z" fill="#1a2a36"/>
-  <rect x="12" y="14" width="8" height="8" fill="#ff7b72"/><rect x="26" y="14" width="8" height="8" fill="#ffb86c"/><rect x="40" y="14" width="8" height="8" fill="#7ee787"/>
-  <text x="60" y="26" fill="#56cfe1" font-family="monospace" font-size="14" font-weight="700">> neural_core</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28" viewBox="0 0 180 28">
+  <path d="M0 4C0 1.79086 1.79086 0 4 0H130L145 28H0V4Z" fill="#1a2a36"/>
+  <rect x="8" y="11" width="5" height="5" fill="#ff7b72"/><rect x="18" y="11" width="5" height="5" fill="#ffb86c"/><rect x="28" y="11" width="5" height="5" fill="#7ee787"/>
+  <text x="42" y="18" fill="#56cfe1" font-family="monospace" font-size="11" font-weight="700">> neural_core</text>
 </svg>
