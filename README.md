@@ -18,7 +18,7 @@
 
 | <img src="./assets/header-identity.svg" height="32" /> | <img src="./assets/header-core.svg" height="32" /> |
 | :--- | :--- |
-| <blockquote align="left"><b>Neural Architect & Terminal Craftsman</b> building intelligent systems with a pixel-art soul.<br><br>I spend most of my time training <b>Large Language Models</b>, exploring <b>Deep Learning</b>, and building <b>Axiom 1</b>, a custom LLM.<br><br><img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch-7ee787?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" /></blockquote> | <p align="left"><code><b>[ CORE_LOGIC ]</b></code><br><img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" /></p><p align="left"><code><b>[ SYSTEM_TOOLS ]</b></code><br><img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" /></p><p align="left"><code><b>[ RESEARCH_THREADS ]</b></code><br>• Linear Algebra for DL<br>• Terminal Workflows</p> |
+| <blockquote align="left"><b>Neural Architect & Terminal Craftsman</b> building intelligent systems with a pixel-art soul.<br><br>I spend most of my time training <b>Large Language Models</b>, exploring <b>Deep Learning</b>, and building <b>Axiom 1</b>, a custom LLM.<br><br><img src="https://img.shields.io/badge/ALIAS-Akash%20%2F%20BLAKE-56cfe1?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STACK-Python%2C%20PyTorch-7ee787?style=flat-square&labelColor=1a2a36" /> <img src="https://img.shields.io/badge/STATUS-training%20transformers-ffb86c?style=flat-square&labelColor=1a2a36" /></blockquote> | <p align="left"><code><b>[ CORE_LOGIC ]</b></code><br><img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,fastapi,html,css&theme=dark" alt="AI Skills" /></p><p align="left"><code><b>[ SYSTEM_TOOLS ]</b></code><br><img src="https://skillicons.dev/icons?i=neovim,linux,git,bash,github&theme=dark" alt="Tools" /></p><p align="left"><code><b>[ RESEARCH_THREADS ]</b></code><br>â€¢ Linear Algebra for DL<br>â€¢ Terminal Workflows</p> |
 
 </div>
 
@@ -33,7 +33,11 @@
 [SUCCESS] :: weights loaded. scaling intelligence.
 ```
 
-I started by taking tools apart to see how they worked. That curiosity evolved from tweaking terminal configs to tweaking neural architectures. Today, I'm focused on the intersection of **Artificial Intelligence** and **Developer Experience**—building tools that are as smart as they are fast.
+I'm a B.Tech ECE graduate who enjoys understanding how systems work "under the hood". My interests span Python development, machine learning, and developer tooling.
+
+Recently I've been diving deep into the internals of large language models â€” building components like tokenizers, attention mechanisms, and training pipelines from scratch to understand how modern AI systems actually work.
+
+Outside of coding, I enjoy experimenting with terminal setups, creating 3D characters in Blender, and gaming.
     </div>
   </blockquote>
 </div>
@@ -77,9 +81,9 @@ I started by taking tools apart to see how they worked. That curiosity evolved f
 ## `> access_nodes`
 
 <p align="center">
-  <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> •
-  <a href="https://akash-qn4m.onrender.com"><code>Portfolio</code></a> •
-  <a href="https://github.com/akash-bhaduri/Terminal-blog"><code>Terminal Blog</code></a> •
+  <a href="https://github.com/akash-bhaduri"><code>GitHub</code></a> â€¢
+  <a href="https://akash-qn4m.onrender.com"><code>Portfolio</code></a> â€¢
+  <a href="https://github.com/akash-bhaduri/Terminal-blog"><code>Terminal Blog</code></a> â€¢
   <a href="https://github.com/akash-bhaduri/windows-terminal-config"><code>Terminal Config</code></a>
 </p>
 
